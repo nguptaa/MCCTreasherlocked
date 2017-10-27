@@ -26,10 +26,13 @@ h3{
   color: red;
 }
 
-.rules{
+.jumbotron{
+  padding: 30px;
+}
+/*.rules{
   letter-spacing: 1px;
   font-size: 18px;
-}
+}*/
 
 .foot{
   color: gray;
