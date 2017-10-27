@@ -21,17 +21,20 @@ h3{
 }
 
 .jumbotron{
-  padding: 15px;
+  padding: 30px;
+   min-height: calc(90vh - 20px);
+
 }
-/*.rules{
+.rules{
   letter-spacing: 1px;
   font-size: 18px;
-}*/
+}
 
 .foot{
   color: gray;
   padding-right: 5px;
 }
+
 
 .footer{
   padding: 25px;
@@ -40,4 +43,9 @@ h3{
   -ms-align-self: -ms-flex-end;
   background: #252830;
   text-align: center;
+  position: relative;
+
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
