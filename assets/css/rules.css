@@ -1,12 +1,6 @@
-html{
+html,body{
+  margin-top: 45px;
   height: 100%;
-}
-
-body{
-  margin-top: 100px;
-  min-height: 100%;
-  position: relative;
-  padding-bottom: 250px;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -46,8 +40,4 @@ h3{
   -ms-align-self: -ms-flex-end;
   background: #252830;
   text-align: center;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
 }
