@@ -45,8 +45,6 @@ a:hover{
 }
 
 hr{
-  position: relative;
-  border: 0;
   height: 2px;
   width: 20%;
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0), red , rgba(0, 0, 0, 0));
@@ -64,9 +62,7 @@ hr{
 }
 
 .social{
-  margin: 15px;
-  padding-right: 50px;
-
+  padding: 20px;
 }
 
 .rounded-circle{
