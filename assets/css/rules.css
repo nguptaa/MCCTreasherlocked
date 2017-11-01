@@ -22,7 +22,7 @@ h3{
 
 .jumbotron{
   padding: 30px;
-   min-height: calc(90vh - 10px);
+   min-height: calc(90vh - 20px);
 
 }
 .rules{
