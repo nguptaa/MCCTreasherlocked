@@ -99,32 +99,4 @@
 </div>
 
 
-
-<div class="footer">
-  <ul class="nav justify-content-center">
-    <li class="nav-item ">
-      <a class="nav-link active foot" href="#">Home</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link foot" href="#">About</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link foot" href="#">Treasherlocked's Facebook</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link foot" href="#">Privacy Policy</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link foot" href="#">Contact Us</a>
-    </li>
-  </ul>
-  <ul class="nav justify-content-center foot">
-    <li>
-      2013 - 2017 &copy; <a href="http://www.microsoftcampusclub.in/" target="_blank">Microsoft Campus Club</a>
-      <em>(based in <a href="http://nitrkl.ac.in" target="_blank">National Institute of Technology Rourkela</a>)</em>
-    </li>
-  </ul>
-</div>
-
-
 <?php include "includes/footer.php" ?>
