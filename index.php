@@ -1,4 +1,4 @@
-
+<?php include "includes/header.php" ?>
 
   <!-- navbar -->
   <nav class="navbar fixed-top navbar-expand-md navbar-dark">
@@ -125,3 +125,6 @@
       </li>
     </ul>
   </div>
+
+
+  <?php include "includes/footer.php" ?>
