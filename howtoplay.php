@@ -100,20 +100,4 @@
       </ul>
     </div>
 
-
-
-
-
-
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="assets/js/jquery-3.2.1.slim.min.js"></script>
-    <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-
-
-    <!-- InstantClick JS -->
-    <script src="assets/js/instantclick.min.js" data-no-instant></script>
-    <script data-no-instant>InstantClick.init();</script>
-
-  </body>
-  </html>
+    <?php include "includes/footer.php" ?>
