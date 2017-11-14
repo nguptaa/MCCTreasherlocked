@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-
-  <!-- Title -->
-  <title>Treasherlocked - 5.0</title>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <!-- favicon -->
-  <link rel="icon" type="image/gif" href="assets/img/ts/favicon.png" />
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <!-- styling -->
-  <link rel="stylesheet" type="text/css" href="assets/css/index.css">
-  <!-- font -->
-  <link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto|Raleway" rel="stylesheet">
-</head>
-<body>
+<?php include "includes/header.php"; ?>
 
 <!-- navbar -->
 <nav class="navbar fixed-top navbar-expand-md navbar-dark">
@@ -117,39 +98,4 @@
   </div>
 </div>
 
-
-<div class="footer">
-  <ul class="nav justify-content-center">
-    <li class="nav-item ">
-      <a class="nav-link active foot" href="#">Home</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link foot" href="#">About</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link foot" href="#">Treasherlocked's Facebook</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link foot" href="#">Privacy Policy</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link foot" href="#">Contact Us</a>
-    </li>
-  </ul>
-  <ul class="nav justify-content-center foot">
-    <li>
-      2013 - 2017 &copy; <a href="http://www.microsoftcampusclub.in/" target="_blank">Microsoft Campus Club</a>
-      <em>(based in <a href="http://nitrkl.ac.in" target="_blank">National Institute of Technology Rourkela</a>)</em>
-    </li>
-  </ul>
-</div>
-
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="assets/js/jquery-3.2.1.slim.min.js"></script>
-<script src="assets/js/popper.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="assets/js/index.js"></script>
-
-</body>
-</html>
-
+<?php include "includes/footer.php"; ?>
