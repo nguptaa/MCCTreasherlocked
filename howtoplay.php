@@ -11,16 +11,16 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item link">
-          <a class="nav-link" href="index.html">Home</a>
+          <a class="nav-link" href="index.php">Home</a>
         </li>
         <li class="nav-item link">
-          <a class="nav-link" href="about.html">About</a>
+          <a class="nav-link" href="about.php">About</a>
         </li>
         <li class="nav-item link">
           <a class="nav-link active" href="#" style="color:red;">How to Play</a>
         </li>
         <li class="nav-item link">
-          <a class="nav-link" href="rules.html">Rules</a>
+          <a class="nav-link" href="rules.php">Rules</a>
         </li>
       </ul>
       <div class="btn-toolbar">
