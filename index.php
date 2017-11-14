@@ -13,13 +13,13 @@
           <a class="nav-link" href="#about" style="color:red;">Home</a>
         </li>
         <li class="nav-item link">
-          <a class="nav-link" href="about.html">About</a>
+          <a class="nav-link" href="about.php">About</a>
         </li>
         <li class="nav-item link">
-          <a class="nav-link" href="howtoplay.html">How to Play</a>
+          <a class="nav-link" href="howtoplay.php">How to Play</a>
         </li>
         <li class="nav-item link">
-          <a class="nav-link" href="rules.html">Rules</a>
+          <a class="nav-link" href="rules.php">Rules</a>
         </li>
       </ul>
       <div class="btn-toolbar">
