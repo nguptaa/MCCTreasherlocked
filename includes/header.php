@@ -12,6 +12,8 @@
   <link rel="icon" type="image/gif" href="assets/img/ts/favicon.png" />
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!-- styling -->
+  <link rel="stylesheet" type="text/css" href="assets/css/index.css">
   <!-- font -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto|Raleway" rel="stylesheet">
 </head>
