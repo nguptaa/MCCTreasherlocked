@@ -51,7 +51,7 @@
 
 
 
-  <div class="container">
+  <div id="content" class="container">
     <div class="jumbotron top">
 
       <p align="justify">
