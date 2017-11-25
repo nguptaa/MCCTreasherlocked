@@ -19,7 +19,6 @@
 </head>
 <body>
 
-
   <!-- navbar -->
   <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark">
     <div class="container">
