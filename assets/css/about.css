@@ -15,6 +15,10 @@ html,body{
   margin: 8px;
 }
 
+#content{
+  margin-top:25px;
+}
+
 
 .jumbotron{
   padding: 30px;
