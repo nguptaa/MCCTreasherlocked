@@ -7,7 +7,6 @@ html,body{
 .navbar{
   color: white;
   text-transform: uppercase;
-
   letter-spacing: 1px;
   background: black;
 }
@@ -42,6 +41,10 @@ a:hover{
 }
 
 .avatar{
+  padding-top: 40px;
+  /*display: block;
+  position: fixed;
+  top: 1000px;*/
   animation: fadein 5s;
   -moz-animation: fadein 5s; /* Firefox */
   -webkit-animation: fadein 5s; /* Safari and Chrome */
